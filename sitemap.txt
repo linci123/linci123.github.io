@@ -1,6 +1,6 @@
 https://linci123.github.io/about/index.html
-https://linci123.github.io/categories/index.html
 https://linci123.github.io/friends/index.html
 https://linci123.github.io/tags/index.html
+https://linci123.github.io/categories/index.html
 https://linci123.github.io/2022/07/28/hello-world/
 https://linci123.github.io/

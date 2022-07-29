@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>linci</title>
   
   
   <link href="https://linci123.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://linci123.github.io/</id>
   
   <author>
-    <name>lincie</name>
+    <name>林辞</name>
     
   </author>
   
