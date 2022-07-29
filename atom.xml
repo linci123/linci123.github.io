@@ -6,7 +6,7 @@
   <link href="https://linci123.github.io/atom.xml" rel="self"/>
   
   <link href="https://linci123.github.io/"/>
-  <updated>2022-07-28T01:51:52.000Z</updated>
+  <updated>2022-07-29T09:15:08.986Z</updated>
   <id>https://linci123.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux</title>
+    <link href="https://linci123.github.io/2022/07/29/linux/"/>
+    <id>https://linci123.github.io/2022/07/29/linux/</id>
+    <published>2022-07-29T09:15:08.000Z</published>
+    <updated>2022-07-29T09:15:08.986Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
